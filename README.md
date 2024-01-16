@@ -5,7 +5,9 @@ FOR FRONTEND TO BACKEND CONNECTION ON THE DEPLOYED SITE. NEED TO INSTALL CORS EX
 
 Deployed Site: https://wheresmystuff.vercel.app/ Chrome extension: CORS
 
-To install and get the the frontend running. //DOES NOT WORK CURRENTLY AS I ONLY UPLOADED THE FRONTEND TO MY PERSONAL GITHUB
+To install and get the the frontend running. 
+
+//DOES NOT WORK CURRENTLY AS I ONLY UPLOADED THE FRONTEND TO MY PERSONAL GITHUB
 
 cd to the pines-app
 npm install --global yarn
