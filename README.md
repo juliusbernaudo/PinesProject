@@ -15,6 +15,7 @@ npm install axios --save
 npm install react-scripts
 yarn --version to check version
 yarn start in the pines-app to run the frontend
+
 //updated 7/09/22 6. npm install @mui/material @emotion/react @emotion/styled --force (if it does not work then try yarn add @mui/material @emotion/react @emotion/styled)
 
 //updated 9/09/22 7. npm install @mui/icons-material --global --force else: yarn add @mui/icons-material --global --force Note: --global and --force may not be needed.
