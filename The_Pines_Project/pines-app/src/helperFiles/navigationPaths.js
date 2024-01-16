@@ -1,0 +1,10 @@
+export const login = '/';
+export const profile = '/profile';
+export const addItem = '/addItem';
+export const register = '/register';
+export const verifyLogin = '/verifyLogin';
+export const mainPage = '/mainPage';
+export const forgotPassword = '/forgotPassword';
+export const changePassword = '/changePassword';
+export const newPasswordPage = '/newPassword';
+export const backEndURL = 'https://comp30022-pine-project.herokuapp.com';
